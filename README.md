@@ -1,7 +1,7 @@
 # eCom
-Client paid project 
+6 months Client paid project 
 
 
--Owner: Jason Ye 
--BlueHost: For hosting and managing the website online 
--CSS Template: Free to use by Treviso-template
+Owner: Jason Ye | 
+BlueHost: For hosting and managing the website online |
+CSS Template: Free to use by Treviso-template
