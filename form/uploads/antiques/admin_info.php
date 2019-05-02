@@ -1,10 +1,10 @@
 <?php $pagetitle="Admin Page"; ?>
 
 <?php 
-		$sitename="PDX Chinese Furnitures"; 
+		$sitename="Xie PDX Furnitures"; 
       	$sitedescription="eCommerce Website"; 
-     	$siteowner="Jason Ye";
-     	$sitepath="http://people.oregonstate.edu/~yeja/eCom/"; 
+          $siteowner="Jessica Jang";
+     	$sitepath="http://xiefurnitures.com/home/"; 
 ?>
 
 <link href="<?php echo $sitepath; ?>css/bootstrap.min.css" rel="stylesheet">

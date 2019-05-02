@@ -2,8 +2,8 @@
 <?php 
 		$sitename="Xie PDX Furnitures"; 
       	$sitedescription="eCommerce Website"; 
-     	$siteowner="Jason Ye";
-     	$sitepath="http://people.oregonstate.edu/~yeja/eCom/";  
+     	$siteowner="Jessica Jang";
+     	$sitepath="http://xiefurnitures.com/home/";  
 ?>
 
 <link href="<?php echo $sitepath; ?>css/bootstrap.min.css" rel="stylesheet">
@@ -92,17 +92,6 @@
                         //check file extension
                         if(in_array($extension, $extensions_array)){
                         
-
-                        
-
-                        
-                        //$file_name = scandir("../uploads/furnitures");
-                        //print_r($file_name);
-                        //echo $file_name['filename'], "\n"; 
-                        //$file_name = pathinfo("../form/uploads/furnitures/$dir_path");
-                     
-                        //echo "$file_name";
-                        
                         echo "
                         <div class=\"item-col-md-3\">
                             <div class=\"team-item\">
@@ -128,10 +117,6 @@
                         
                         ";
 
-                        //echo file_get_contents("description.txt");
-                        //echo "<p>$description</p>";
-
-                        //Modal for item $files[$i]
                             
                         }
                     }

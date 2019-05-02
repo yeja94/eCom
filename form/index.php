@@ -3,7 +3,7 @@
 <?php 
 		$sitename="Xie PDX Furnitures"; 
       	$sitedescription="eCommerce Website"; 
-     	$siteowner="Jason Ye";
+		  $siteowner="Jessica Jang";
      	$sitepath="http://xiefurnitures.com/home/"; 
 ?>
 

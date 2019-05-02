@@ -1,10 +1,10 @@
 <?php $pagetitle="Welcome"; ?>
 
 <?php 
-		$sitename="PDX Chinese Furnitures"; 
-      	$sitedescription="eCommerce Website"; 
-     	$siteowner="Jason Ye";
-     	$sitepath="http://people.oregonstate.edu/~yeja/eCom/"; 
+		$sitename="Xie PDX Furnitures"; 
+        $sitedescription="eCommerce Website"; 
+        $siteowner="Jessica Jang";
+        $sitepath="http://xiefurnitures.com/home/"; 
 ?>
 
 <link href="<?php echo $sitepath; ?>css/bootstrap.min.css" rel="stylesheet">
@@ -130,7 +130,7 @@
                                                 </div>    
                                                 <figcaption>                                                  
                                                     <h2>$entry</h2>
-                                                    <p>$price_item</p>
+                                                    <p>$$price_item</p>
                                                 </figcaption>
                                             </figure>
                                 </a>                                                        

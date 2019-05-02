@@ -1,8 +1,8 @@
 <?php $pagetitle='legal';
 $sitename="PDX Chinese Furnitures"; 
 $sitedescription="eCommerce Website"; 
-$siteowner="Jason Ye";
-$sitepath="http://people.oregonstate.edu/~yeja/eCom/"; 
+$siteowner="Jessica Jang";
+$sitepath="http://xiefurnitures.com/home/";
 ?>
 
 
@@ -56,7 +56,7 @@ for protection against threats. I recommend scanning any files before downloadin
 <h2>Acceptable Use</h2>
 <p>This website has no age limit and you must be a legitimate user to view this content or purchase.</p>  
 
-<h2>Americans with Disabilities Act (needed for Federal sites)</h2>
+<h2>Americans with Disabilities Act</h2>
 <p>This website is not meant for American with disabilities, due to high content of text. For those people who has trouble 
 viewing the website, please contact me on the form by stating your concern or question. </p>
 

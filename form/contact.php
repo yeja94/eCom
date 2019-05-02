@@ -1,8 +1,8 @@
 <?php 
-		$sitename="PDX Chinese Furnitures"; 
+		$sitename="Xie PDX Furnitures"; 
       	$sitedescription="eCommerce Website"; 
-     	$siteowner="Jason Ye";
-     	$sitepath="http://people.oregonstate.edu/~yeja/eCom/"; 
+		$siteowner="Jessica Jang";
+     	$sitepath="http://xiefurnitures.com/home/";
 ?>
 <link href="<?php echo $sitepath; ?>css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -39,7 +39,7 @@ $favoritenumber = $_POST['favoritenumber'];
 
 //prepare for email msg
 $from = $_POST['firstlastname']; 
-$to = 'yeja@onid.oregonstate.edu'; 
+$to = '469733419@qq.com'; 
 $subject = 'Purchase Want';
 $human = $_POST['human'];
 
