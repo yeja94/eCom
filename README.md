@@ -1,5 +1,5 @@
 # eCom
-A 6 months signed contract and paid project suggested by clients. The project is an e-Commerce website that allow user purchages item on the site by contacting the seller.   
+A 6 months signed contract and paid project offered from clients. The project is an e-Commerce website that allow user purchages item on the site by contacting the seller.   
 
 Owner: Jessica Jang and Tony Xie |
 Creater/Designer: Jason Ye | 
